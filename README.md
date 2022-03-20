@@ -18,7 +18,6 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 The final result was the working website that allowed for five different categories to filter the data: date, city, state, country, and shape of the UFO.  
 ![image](https://user-images.githubusercontent.com/97119920/159179083-cf5b25b7-b465-4312-bfaf-614667d10441.png)
 
-To access the webpage you can click here: [Active Github Pages](https://mheard100.github.io/UFOs/)
 
 - The website displays the data in the form of a well structured table with UFO sighting data: date, city, state, country, shape, duration, and additional comments. 
 - The website was designed using JavaScript and HTML and arranged/modified with CSS and Bootstrap. 
