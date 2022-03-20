@@ -25,10 +25,10 @@ The final result was the working website that allowed for five different categor
 - To come back to the original dataset (without filters included) click on the top left where it says **UFO Sightings** and the HTML will get redirected. 
 
 Filter example: 
-![UFO_Website_ss_specific]![image](https://user-images.githubusercontent.com/97119920/159179263-e0310e82-f022-417c-8812-d29cbd7f6553.png)
+[image](https://user-images.githubusercontent.com/97119920/159179263-e0310e82-f022-417c-8812-d29cbd7f6553.png)
 
 Multi-filter example: 
-![UFO_Website_ss_specific2]![image](https://user-images.githubusercontent.com/97119920/159179297-f835da48-c62c-43ba-b151-dbfbc3a26612.png)
+[image](https://user-images.githubusercontent.com/97119920/159179297-f835da48-c62c-43ba-b151-dbfbc3a26612.png)
 
 ## Summary
 A major drawback is the data.js itself. There isn't a lot of data involved relatively. Expanding the data to include more sightings and more places across the world would be beneficial to the success of the website. Another recommendation would be to futher decorate the website. CSS and Bootstrap have infinite options to make an even more aesthetically pleasant website. Something more interactive would draw the attention of users.  
