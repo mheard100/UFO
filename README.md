@@ -21,7 +21,7 @@ The final result was the working website that allowed for five different categor
 
 - The website displays the data in the form of a well structured table with UFO sighting data: date, city, state, country, shape, duration, and additional comments. 
 - The website was designed using JavaScript and HTML and arranged/modified with CSS and Bootstrap. 
-- To navigate through its functionality, the user would need to click on the input boxes provided to the bottom left and enter a valid text-option for the category to be filtered. If you enter a incorrect fitler or a variable that does not exist in the data, you will get an empty table.  
+- To navigate through its functionality, the user would need to click on the input boxes provided to the bottom left and enter a valid text-option for the category to be filtered. If you enter an incorrect fitler or a variable that does not exist in the data, you will get an empty table.  
 - To come back to the original dataset (without filters included) click on the top left where it says **UFO Sightings** and the HTML will get redirected. 
 
 Filter example: 
